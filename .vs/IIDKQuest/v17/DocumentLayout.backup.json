@@ -1,0 +1,471 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|c:\\users\\alawi\\downloads\\saturntemp-untitled\\untitled temp\\untitled\\iidkquest\\mods\\wavvoicestreamerstatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\mods\\wavvoicestreamerstatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|c:\\users\\alawi\\downloads\\saturntemp-untitled\\untitled temp\\untitled\\iidkquest\\menu\\buttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\buttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\iidkquest\\menu\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\iidkquest\\mods\\moddednametag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\mods\\moddednametag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\iidkquest\\mods\\movetimmygun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\mods\\movetimmygun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\iidkquest\\plugininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\plugininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\iidkquest\\mods\\coustmmotd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\mods\\coustmmotd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\iidkquest\\mods\\slowgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\mods\\slowgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\iidkquest\\mods\\infsr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\mods\\infsr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\iidkquest\\mods\\startupmods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\mods\\startupmods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\iidkquest\\notifications\\notificationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\notifications\\notificationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\iidkquest\\mods\\platfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\mods\\platfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\iidkquest\\mods\\targetgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\mods\\targetgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\iidkquest\\mods\\triggerplatforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\mods\\triggerplatforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\iidkquest\\mods\\esp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\mods\\esp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\iidkquest\\mods\\timmygun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\mods\\timmygun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\iidkquest\\mods\\taggun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\mods\\taggun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\iidkquest\\mods\\stalkergun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\mods\\stalkergun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\iidkquest\\mods\\socreboradgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\mods\\socreboradgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\iidkquest\\mods\\nwpspam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\mods\\nwpspam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\iidkquest\\mods\\kickgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\mods\\kickgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\iidkquest\\mods\\kickall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\mods\\kickall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\iidkquest\\mods\\emenygun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\mods\\emenygun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\iidkquest\\mods\\cubegun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\mods\\cubegun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\iidkquest\\mods\\crashgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\mods\\crashgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\iidkquest\\mods\\crashallop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\mods\\crashallop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\iidkquest\\menu\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\iidkquest\\classes\\extgradient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\classes\\extgradient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WavVoiceStreamerStatic.cs",
+              "DocumentMoniker": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\WavVoiceStreamerStatic.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Mods\\WavVoiceStreamerStatic.cs",
+              "ToolTip": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\WavVoiceStreamerStatic.cs",
+              "RelativeToolTip": "IIDKQuest\\Mods\\WavVoiceStreamerStatic.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:30:39.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NotificationManager.cs",
+              "DocumentMoniker": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Notifications\\NotificationManager.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Notifications\\NotificationManager.cs",
+              "ToolTip": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Notifications\\NotificationManager.cs",
+              "RelativeToolTip": "IIDKQuest\\Notifications\\NotificationManager.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:22:32.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Platfrom.cs",
+              "DocumentMoniker": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\Platfrom.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Mods\\Platfrom.cs",
+              "ToolTip": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\Platfrom.cs",
+              "RelativeToolTip": "IIDKQuest\\Mods\\Platfrom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:20:29.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InfSR.cs",
+              "DocumentMoniker": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\InfSR.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Mods\\InfSR.cs",
+              "ToolTip": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\InfSR.cs",
+              "RelativeToolTip": "IIDKQuest\\Mods\\InfSR.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:19:24.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TriggerPlatforms.cs",
+              "DocumentMoniker": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\TriggerPlatforms.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Mods\\TriggerPlatforms.cs",
+              "ToolTip": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\TriggerPlatforms.cs",
+              "RelativeToolTip": "IIDKQuest\\Mods\\TriggerPlatforms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:18:57.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "esp.cs",
+              "DocumentMoniker": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\esp.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Mods\\esp.cs",
+              "ToolTip": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\esp.cs",
+              "RelativeToolTip": "IIDKQuest\\Mods\\esp.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:17:48.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "timmygun.cs",
+              "DocumentMoniker": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\timmygun.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Mods\\timmygun.cs",
+              "ToolTip": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\timmygun.cs",
+              "RelativeToolTip": "IIDKQuest\\Mods\\timmygun.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:17:07.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "targetgun.cs",
+              "DocumentMoniker": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\targetgun.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Mods\\targetgun.cs",
+              "ToolTip": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\targetgun.cs",
+              "RelativeToolTip": "IIDKQuest\\Mods\\targetgun.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwEgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:16:57.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Buttons.cs",
+              "DocumentMoniker": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Menu\\Buttons.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\Buttons.cs",
+              "ToolTip": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Menu\\Buttons.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\Buttons.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAQwKoAAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:10:01.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Menu\\Main.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\Main.cs",
+              "ToolTip": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Menu\\Main.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\Main.cs",
+              "ViewState": "AgIAADICAAAAAAAAAADwvyECAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T15:09:04.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PluginInfo.cs",
+              "DocumentMoniker": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\PluginInfo.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\PluginInfo.cs",
+              "ToolTip": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\PluginInfo.cs",
+              "RelativeToolTip": "IIDKQuest\\PluginInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:04:18.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "movetimmygun.cs",
+              "DocumentMoniker": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\movetimmygun.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Mods\\movetimmygun.cs",
+              "ToolTip": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\movetimmygun.cs",
+              "RelativeToolTip": "IIDKQuest\\Mods\\movetimmygun.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAQwGsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:15:44.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModdedNameTag.cs",
+              "DocumentMoniker": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\ModdedNameTag.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Mods\\ModdedNameTag.cs",
+              "ToolTip": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\ModdedNameTag.cs",
+              "RelativeToolTip": "IIDKQuest\\Mods\\ModdedNameTag.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowC4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:25:52.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StartUpMods.cs",
+              "DocumentMoniker": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\StartUpMods.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Mods\\StartUpMods.cs",
+              "ToolTip": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\StartUpMods.cs",
+              "RelativeToolTip": "IIDKQuest\\Mods\\StartUpMods.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:25:33.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CoustmMOTD.cs",
+              "DocumentMoniker": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\CoustmMOTD.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Mods\\CoustmMOTD.cs",
+              "ToolTip": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\CoustmMOTD.cs",
+              "RelativeToolTip": "IIDKQuest\\Mods\\CoustmMOTD.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBwAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:31:47.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SlowGun.cs",
+              "DocumentMoniker": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\SlowGun.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Mods\\SlowGun.cs",
+              "ToolTip": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\SlowGun.cs",
+              "RelativeToolTip": "IIDKQuest\\Mods\\SlowGun.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAkwGYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:16:17.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "taggun.cs",
+              "DocumentMoniker": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\taggun.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Mods\\taggun.cs",
+              "ToolTip": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\taggun.cs",
+              "RelativeToolTip": "IIDKQuest\\Mods\\taggun.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwFQAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:16:44.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "stalkergun.cs",
+              "DocumentMoniker": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\stalkergun.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Mods\\stalkergun.cs",
+              "ToolTip": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\stalkergun.cs",
+              "RelativeToolTip": "IIDKQuest\\Mods\\stalkergun.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwEgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:16:38.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "socreboradgun.cs",
+              "DocumentMoniker": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\socreboradgun.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Mods\\socreboradgun.cs",
+              "ToolTip": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\socreboradgun.cs",
+              "RelativeToolTip": "IIDKQuest\\Mods\\socreboradgun.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwEgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:16:30.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NWPSPAM.cs",
+              "DocumentMoniker": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\NWPSPAM.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Mods\\NWPSPAM.cs",
+              "ToolTip": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\NWPSPAM.cs",
+              "RelativeToolTip": "IIDKQuest\\Mods\\NWPSPAM.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwEgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:16:01.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "KickGun.cs",
+              "DocumentMoniker": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\KickGun.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Mods\\KickGun.cs",
+              "ToolTip": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\KickGun.cs",
+              "RelativeToolTip": "IIDKQuest\\Mods\\KickGun.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwEgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:15:33.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "KickAll.cs",
+              "DocumentMoniker": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\KickAll.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Mods\\KickAll.cs",
+              "ToolTip": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\KickAll.cs",
+              "RelativeToolTip": "IIDKQuest\\Mods\\KickAll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:15:30.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "emenygun.cs",
+              "DocumentMoniker": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\emenygun.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Mods\\emenygun.cs",
+              "ToolTip": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\emenygun.cs",
+              "RelativeToolTip": "IIDKQuest\\Mods\\emenygun.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwEgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:15:05.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "cubegun.cs",
+              "DocumentMoniker": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\cubegun.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Mods\\cubegun.cs",
+              "ToolTip": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\cubegun.cs",
+              "RelativeToolTip": "IIDKQuest\\Mods\\cubegun.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwEgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:14:37.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "crashgun.cs",
+              "DocumentMoniker": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\crashgun.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Mods\\crashgun.cs",
+              "ToolTip": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\crashgun.cs",
+              "RelativeToolTip": "IIDKQuest\\Mods\\crashgun.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwFMAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:14:06.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CrashALLOP.cs",
+              "DocumentMoniker": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\CrashALLOP.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Mods\\CrashALLOP.cs",
+              "ToolTip": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Mods\\CrashALLOP.cs",
+              "RelativeToolTip": "IIDKQuest\\Mods\\CrashALLOP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:13:40.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Menu\\Settings.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\Settings.cs",
+              "ToolTip": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Menu\\Settings.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\Settings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:09:38.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ExtGradient.cs",
+              "DocumentMoniker": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Classes\\ExtGradient.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Classes\\ExtGradient.cs",
+              "ToolTip": "C:\\Users\\alawi\\Downloads\\SaturnTemp-Untitled\\Untitled Temp\\Untitled\\IIDKQuest\\Classes\\ExtGradient.cs",
+              "RelativeToolTip": "IIDKQuest\\Classes\\ExtGradient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T15:30:33.57Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
